@@ -1,11 +1,15 @@
 ## 🏛️ Open DataGovs
 ⚡Bring insights to non-technical users with Text-To-SQL Apps using LLMs and Open Data ⚡
 
-Looking to connect your DB to DataGovs. Check out API Docs. 
+How can we support production-ready use cases of Large Language Model components that are simply not 
+just an API wrapper or "framework" but tools that provide control and visibility to model outputs.
 
-Private Data: As you move DataGovs with private data, we help teams with onboarding and a dedicated Discord Channel. Fill out the form. 
+Open Data: Leverages public data sources on top of the language model to demonstrate scalable applications that meet
+compliance and privacy goals.
+
 ### 🤔 What is this?
-Language Learning Models (LLMs) are emerging as a transformative technology, not just enabling developers to build apps but also helping democratize data analysis. Leveraging LLMs to run analysis on public and private data for business is work for many reasons: quality of data, lack of standards, access control and compliance are just a few.
+Large Language Models (LLMs) are emerging as a transformative technology, not just enabling developers to build apps but also helping democratize data analysis. Leveraging LLMs to run analysis on public data
+related use cases is a simple way of showing value to processes.
 
 This repository leverages Open Data to provide example use cases 
 
@@ -35,9 +39,7 @@ This includes prompt management, prompt optimization, a generic interface for al
 
 As an Open Data project, we showcase numerous public datasets that can be brought in to run your own examples. 
 
-- Data Standards - Help us add new standards for reporting quality and compliant data for various industry use cases. 
-- Data Visualization - Provide feedback on new methods of visualization of data for end-users leveraging the Open version of DataGovs.
-- Data Sources - Public data is great, but some users might want to run private data that they own and can leverage for internal use cases. Contributors support public data.
+We encourage folks as they build their own to showcase here and cite the data sources.
 
 ### 💰 Commercialization
 
