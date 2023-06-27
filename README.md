@@ -1,4 +1,4 @@
-## 🏛️ Open DataGovs
+## 🏛️ Open Data + LLMS
 ⚡Bring insights to non-technical users with Text-To-SQL Apps using LLMs and Open Data ⚡
 
 How can we support production-ready use cases of Large Language Model components that are simply not 
